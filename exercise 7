@@ -1,0 +1,12 @@
+for i in range(0, 51, 1):  # Starts at 0, goes up to 50, increments by 1
+    print(i)
+
+
+for i in range(50, -1, -1):  # Starts at 50, goes down to 0, decrements by 1
+    print(i)
+for i in range(30, 51, 1):  # Starts at 30, goes up to 50, increments by 1
+    print(i)
+for i in range(50, 9, -2):  # Starts at 50, goes down to 10 (not including 9), decrements by 2
+    print(i)
+for i in range(100, 201, 5):  # Starts at 100, goes up to 200, increments by 5
+    print(i)
